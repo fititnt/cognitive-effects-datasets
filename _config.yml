@@ -18,10 +18,10 @@ title: Dataset of what causes cognitive effects
 description: > # this means to ignore newlines until "baseurl:"
   Simple dataset with behaviors and actions that affect human cognition for use
   in electronic games or, at your own risk, personal cognitive assistance software
-baseurl: "/cognitive-effects-dataset" # the subpath of your site, e.g. /blog
+baseurl: "/cognitive-effects-datasets" # the subpath of your site, e.g. /blog
 url: "https://fititnt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fititnt
-github_username:  fititnt/cognitive-effects-dataset
+github_username:  fititnt/cognitive-effects-datasets
 
 # Build settings
 markdown: kramdown
